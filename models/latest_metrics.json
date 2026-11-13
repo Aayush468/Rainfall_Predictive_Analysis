@@ -1,0 +1,100 @@
+{
+  "source_file": "data\\processed\\grid_observations_2015_2025.csv",
+  "target": "next_calendar_day_rainfall_mm",
+  "feature_names": [
+    "grid_latitude",
+    "grid_longitude",
+    "lag_1",
+    "lag_2",
+    "lag_3",
+    "lag_7",
+    "lag_14",
+    "rolling_mean_7",
+    "rolling_mean_14",
+    "month",
+    "day_of_year"
+  ],
+  "model_version": "xgboost-next-day-v1",
+  "selected_model": "xgboost",
+  "training_device": "cuda",
+  "rows_total": 800770,
+  "rows_train": 640578,
+  "rows_test": 160192,
+  "training_target_start": "2015-01-15",
+  "training_target_end": "2023-10-22",
+  "test_target_start": "2023-10-23",
+  "test_target_end": "2025-12-31",
+  "baseline_previous_day": {
+    "mae_mm": 3.7093055205867436,
+    "rmse_mm": 11.64934383830851,
+    "r2": -0.15855159395460494
+  },
+  "random_forest": {
+    "mae_mm": 3.4722201391904273,
+    "rmse_mm": 9.354189734490415,
+    "r2": 0.252992778286514
+  },
+  "xgboost": {
+    "mae_mm": 3.4468569051918854,
+    "rmse_mm": 9.384591146576966,
+    "r2": 0.2481292937402082
+  },
+  "selected_model_metrics": {
+    "mae_mm": 3.4468569051918854,
+    "rmse_mm": 9.384591146576966,
+    "r2": 0.2481292937402082
+  },
+  "skill_vs_previous_day_percent": {
+    "mae": 7.0754111231404755,
+    "rmse": 19.441032243240812
+  },
+  "test_rainfall_profile": {
+    "mean_mm": 3.1289955163713206,
+    "wet_grid_days_at_least_0_1mm": 44916,
+    "wet_grid_day_percent": 28.03885337594886,
+    "heavy_grid_days_at_least_64_5mm": 912
+  },
+  "top_feature_importance": [
+    {
+      "feature": "lag_1",
+      "importance": 0.3201824724674225
+    },
+    {
+      "feature": "rolling_mean_7",
+      "importance": 0.17906369268894196
+    },
+    {
+      "feature": "rolling_mean_14",
+      "importance": 0.11440464109182358
+    },
+    {
+      "feature": "grid_longitude",
+      "importance": 0.057879142463207245
+    },
+    {
+      "feature": "day_of_year",
+      "importance": 0.05588025227189064
+    },
+    {
+      "feature": "grid_latitude",
+      "importance": 0.052929140627384186
+    },
+    {
+      "feature": "lag_2",
+      "importance": 0.05021502450108528
+    },
+    {
+      "feature": "month",
+      "importance": 0.04402026906609535
+    },
+    {
+      "feature": "lag_3",
+      "importance": 0.04230252280831337
+    },
+    {
+      "feature": "lag_7",
+      "importance": 0.04177079349756241
+    }
+  ],
+  "model_note": "xgboost next-day grid-cell estimate using rainfall history; XGBoost training device was cuda. Not an official forecast. Scores are from a chronological holdout; compare against persistence before use."
+}

@@ -1,0 +1,201 @@
+latitude,longitude,district_name,state_name,distance_to_district_centroid_km
+27.25000,94.25000,Lakhimpur,Assam,13.4
+18.50000,77.75000,Nizamabad,Telangana,40.8
+18.50000,77.25000,Nanded,Maharashtra,54.6
+18.00000,81.00000,Khammam,Telangana,57.7
+18.00000,81.75000,Malkangiri,Odisha,50.1
+26.00000,94.00000,Kohima,Nagaland,26.0
+21.00000,80.50000,Rajnandgaon,Chhattisgarh,26.0
+13.50000,74.75000,Udupi,Karnataka,18.7
+26.75000,82.50000,Basti,Uttar Pradesh,14.5
+17.75000,79.00000,Hyderabad,Andhra Pradesh,68.8
+17.00000,76.75000,Gulbarga,Karnataka,29.5
+28.00000,76.25000,Mahendragarh,Haryana,33.1
+28.00000,94.50000,West Siang,Arunachal Pradesh,28.0
+23.75000,77.50000,Vidisha,Madhya Pradesh,38.5
+13.25000,79.25000,Chittoor,Andhra Pradesh,41.7
+29.25000,75.00000,Sirsa,Haryana,43.6
+23.75000,86.25000,Dhanbad,Jharkhand,26.8
+28.50000,93.00000,Kurung Kumey,Arunachal Pradesh,78.3
+24.00000,81.75000,Sidhi,Madhya Pradesh,30.1
+16.00000,77.75000,Kurnool,Andhra Pradesh,62.0
+34.75000,79.50000,Leh,Ladakh,159.2
+20.50000,73.50000,Valsad,Gujarat,28.0
+27.75000,95.50000,Tinsukia,Assam,24.2
+28.75000,72.25000,Bikaner,Rajasthan,123.1
+34.00000,76.25000,Kargil,Ladakh,30.7
+23.50000,87.75000,Barddhaman,West Bengal,29.5
+11.25000,78.00000,Namakkal,Tamil Nadu,17.1
+28.25000,94.75000,West Siang,Arunachal Pradesh,11.1
+32.25000,76.75000,Kangra,Himachal Pradesh,48.7
+31.75000,74.50000,Amritsar,Punjab,26.8
+26.00000,71.25000,Barmer,Rajasthan,37.4
+25.75000,94.50000,Phek,Nagaland,10.5
+25.00000,82.25000,Mirzapur,Uttar Pradesh,38.1
+21.25000,82.00000,Raipur,Chhattisgarh,31.9
+29.75000,76.50000,Kaithal,Haryana,9.8
+20.75000,73.50000,The Dangs,Gujarat,19.0
+21.00000,75.50000,Jalgaon,Maharashtra,9.5
+20.75000,82.00000,Dhamtari,Chhattisgarh,27.5
+29.50000,78.75000,Garhwal,Uttarakhand,36.9
+20.75000,82.25000,Nuapada,Odisha,34.6
+19.75000,84.25000,Ganjam,Odisha,52.7
+21.50000,74.75000,Barwani,Madhya Pradesh,44.6
+21.50000,83.25000,Bargarh,Odisha,40.8
+23.50000,80.00000,Jabalpur,Madhya Pradesh,22.4
+36.50000,74.50000,Kupwara,Jammu and Kashmir,218.7
+36.25000,76.00000,Siachen Glacier,Ladakh,144.7
+19.50000,76.25000,Jalna,Maharashtra,37.0
+30.50000,76.75000,Chandigarh,Chandigarh,25.5
+13.00000,76.75000,Mandya,Karnataka,41.5
+26.00000,73.75000,Pali,Rajasthan,47.0
+19.25000,78.00000,Nanded,Maharashtra,66.2
+21.75000,74.00000,Nandurbar,Maharashtra,28.6
+35.75000,73.25000,Kupwara,Jammu and Kashmir,163.3
+20.75000,84.75000,Anugul,Odisha,20.2
+15.25000,74.25000,South Goa,Goa,19.9
+31.50000,77.50000,Shimla,Himachal Pradesh,40.3
+21.50000,76.25000,Burhanpur,Madhya Pradesh,20.4
+26.25000,83.75000,Deoria,Uttar Pradesh,23.1
+14.00000,74.75000,Shimoga,Karnataka,44.1
+23.50000,82.25000,Koriya,Chhattisgarh,9.5
+26.25000,92.25000,Marigaon,Assam,4.8
+23.25000,75.50000,Ujjain,Madhya Pradesh,20.7
+31.75000,78.75000,Kinnaur,Himachal Pradesh,34.7
+22.75000,75.50000,Indore,Madhya Pradesh,40.5
+27.50000,82.00000,Shrawasti,Uttar Pradesh,22.7
+33.25000,79.25000,Leh,Ladakh,146.5
+19.25000,80.25000,Gadchiroli,Maharashtra,49.7
+25.50000,82.75000,Varanasi,Uttar Pradesh,18.9
+19.75000,79.75000,Gadchiroli,Maharashtra,41.1
+29.00000,77.00000,Sonipat,Haryana,3.8
+22.00000,71.00000,Rajkot,Gujarat,40.5
+26.25000,76.75000,Karauli,Rajasthan,28.8
+14.00000,76.25000,Chitradurga,Karnataka,27.0
+17.75000,81.50000,East Godavari,Andhra Pradesh,78.4
+17.75000,81.75000,East Godavari,Andhra Pradesh,62.6
+22.75000,77.25000,Sehore,Madhya Pradesh,22.7
+27.00000,79.25000,Etawah,Uttar Pradesh,24.6
+24.25000,69.25000,Kachchh,Gujarat,89.8
+32.00000,75.75000,Hoshiarpur,Punjab,39.4
+25.75000,73.00000,Pali,Rajasthan,46.2
+27.00000,88.00000,Darjiling,West Bengal,32.6
+19.00000,84.00000,Gajapati,Odisha,31.4
+25.00000,88.25000,Maldah,West Bengal,20.7
+25.00000,88.00000,Maldah,West Bengal,11.9
+20.75000,79.75000,Bhandara,Maharashtra,37.5
+29.50000,75.00000,Sirsa,Haryana,17.3
+28.25000,75.50000,Jhunjhunun,Rajasthan,23.5
+20.00000,85.50000,Khordha,Odisha,17.7
+11.25000,77.50000,Erode,Tamil Nadu,34.4
+27.50000,77.75000,Mathura,Uttar Pradesh,18.2
+24.25000,71.25000,Banas Kantha,Gujarat,51.1
+22.75000,79.25000,Narsimhapur,Madhya Pradesh,33.0
+36.25000,73.00000,Kupwara,Jammu and Kashmir,222.1
+17.75000,83.25000,Visakhapatnam,Andhra Pradesh,61.4
+23.25000,82.25000,Koriya,Chhattisgarh,34.1
+14.25000,79.75000,Sri Potti Sriramulu Nellore,Andhra Pradesh,21.8
+23.75000,87.50000,Birbhum,West Bengal,17.2
+25.00000,72.00000,Jalor,Rajasthan,21.1
+23.25000,82.00000,Anuppur,Madhya Pradesh,32.6
+28.50000,94.25000,Upper Subansiri,Arunachal Pradesh,35.8
+24.00000,82.75000,Singrauli,Madhya Pradesh,42.6
+19.25000,75.25000,Ahmadnagar,Maharashtra,62.0
+25.00000,81.50000,Rewa,Madhya Pradesh,26.6
+20.25000,76.50000,Buldana,Maharashtra,38.7
+19.75000,83.25000,Kalahandi,Odisha,20.5
+20.25000,85.50000,Khordha,Odisha,10.4
+31.00000,78.25000,Uttarkashi,Uttarakhand,12.5
+23.50000,70.00000,Kachchh,Gujarat,38.9
+18.50000,83.25000,Vizianagaram,Andhra Pradesh,6.4
+22.00000,84.00000,Jharsuguda,Odisha,36.5
+23.00000,83.00000,Surguja,Chhattisgarh,54.0
+27.50000,70.25000,Jaisalmer,Rajasthan,83.5
+22.75000,72.00000,Ahmadabad,Gujarat,31.8
+27.00000,74.00000,Nagaur,Rajasthan,20.5
+27.00000,74.75000,Nagaur,Rajasthan,56.3
+33.25000,76.75000,Kishtwar,Jammu and Kashmir,78.1
+17.50000,78.50000,Hyderabad,Andhra Pradesh,12.5
+25.25000,72.75000,Sirohi,Rajasthan,57.8
+10.00000,76.25000,Ernakulam,Kerala,25.7
+25.25000,81.50000,Kaushambi,Uttar Pradesh,25.2
+25.00000,74.50000,Chittaurgarh,Rajasthan,23.2
+28.50000,96.75000,Anjaw,Arunachal Pradesh,49.5
+25.25000,90.25000,South Garo Hills,Meghalaya,34.1
+34.50000,75.00000,Bandipore,Jammu and Kashmir,21.0
+35.50000,74.50000,Kupwara,Jammu and Kashmir,108.5
+26.50000,71.25000,Jaisalmer,Rajasthan,69.4
+30.75000,76.50000,Sahibzada Ajit Singh Nagar,Punjab,15.2
+29.00000,74.75000,Hanumangarh,Rajasthan,28.8
+24.50000,92.50000,Hailakandi,Assam,12.6
+24.50000,92.75000,Hailakandi,Assam,13.2
+26.25000,82.75000,Ambedkar Nagar,Uttar Pradesh,23.3
+12.00000,76.75000,Chamrajnagar,Karnataka,39.4
+18.75000,77.25000,Nanded,Maharashtra,31.1
+22.50000,85.50000,Pashchimi Singhbhum,Jharkhand,4.5
+23.75000,73.75000,Dungarpur,Rajasthan,11.3
+22.25000,78.25000,Hoshangabad,Madhya Pradesh,41.4
+18.75000,77.75000,Nanded,Maharashtra,38.3
+33.25000,78.25000,Leh,Ladakh,91.7
+30.50000,77.00000,Ambala,Haryana,19.1
+36.00000,79.75000,Siachen Glacier,Ladakh,249.6
+27.00000,94.25000,Jorhat,Assam,24.6
+25.00000,76.75000,Baran,Rajasthan,14.0
+25.25000,92.50000,Jaintia Hills,Meghalaya,14.8
+35.25000,78.25000,Siachen Glacier,Ladakh,103.0
+15.25000,75.75000,Gadag,Karnataka,8.4
+26.50000,91.25000,Nalbari,Assam,17.5
+21.00000,81.50000,Durg,Chhattisgarh,38.1
+18.25000,80.50000,Warangal,Telangana,71.3
+20.50000,81.25000,Durg,Chhattisgarh,31.1
+22.50000,78.50000,Hoshangabad,Madhya Pradesh,47.8
+8.75000,77.50000,Tirunelveli,Tamil Nadu,1.5
+18.75000,79.25000,Karimnagar,Telangana,31.1
+28.50000,73.75000,Bikaner,Rajasthan,63.5
+28.00000,77.00000,Mewat,Haryana,4.2
+19.00000,74.75000,Ahmadnagar,Maharashtra,34.6
+28.00000,77.75000,Aligarh,Uttar Pradesh,32.4
+13.75000,76.00000,Chikmagalur,Karnataka,46.2
+16.00000,75.75000,Bagalkot,Karnataka,22.6
+22.75000,88.50000,North 24 Parganas,West Bengal,25.8
+22.75000,88.00000,Hugli,West Bengal,22.2
+15.00000,79.00000,Y.s.r.,Andhra Pradesh,62.9
+26.00000,79.75000,Jalaun,Uttar Pradesh,42.6
+26.75000,76.50000,Dausa,Rajasthan,17.8
+28.75000,73.75000,Ganganagar,Rajasthan,70.3
+26.75000,85.00000,Purba Champaran,Bihar,16.5
+17.75000,82.50000,Visakhapatnam,Andhra Pradesh,22.1
+18.75000,81.50000,Dakshin Bastar Dantewada,Chhattisgarh,22.3
+24.25000,79.75000,Panna,Madhya Pradesh,44.3
+33.00000,75.25000,Udhampur,Jammu and Kashmir,14.8
+27.75000,77.00000,Mewat,Haryana,23.7
+25.50000,79.50000,Mahoba,Uttar Pradesh,27.9
+24.00000,84.75000,Chatra,Jharkhand,25.3
+20.00000,77.00000,Washim,Maharashtra,28.5
+20.75000,83.50000,Balangir,Odisha,38.5
+20.75000,83.75000,Subarnapur,Odisha,24.3
+20.50000,76.00000,Buldana,Maharashtra,39.7
+22.50000,73.00000,Anand,Gujarat,19.3
+26.75000,78.25000,Agra,Uttar Pradesh,44.0
+18.75000,74.50000,Pune,Maharashtra,56.5
+33.25000,75.00000,Reasi,Jammu and Kashmir,16.6
+18.75000,83.25000,Vizianagaram,Andhra Pradesh,22.6
+27.00000,82.75000,Basti,Uttar Pradesh,25.5
+17.00000,81.75000,West Godavari,Andhra Pradesh,37.8
+9.00000,77.25000,Kollam,Kerala,37.2
+24.75000,71.50000,Banas Kantha,Gujarat,55.5
+27.25000,74.50000,Nagaur,Rajasthan,47.6
+13.75000,80.00000,Thiruvallur,Tamil Nadu,50.0
+25.50000,72.25000,Jalor,Rajasthan,49.0
+18.00000,79.25000,Karimnagar,Telangana,52.4
+22.50000,75.50000,Dhar,Madhya Pradesh,35.4
+26.25000,84.75000,Saran (chhapra),Bihar,39.7
+26.75000,89.00000,Jalpaiguri,West Bengal,23.7
+25.25000,73.00000,Sirohi,Rajasthan,61.8
+23.50000,92.50000,Mamit,Mizoram,27.7
+23.50000,92.25000,Mamit,Mizoram,35.0
+27.50000,74.25000,Nagaur,Rajasthan,64.3
+23.50000,92.75000,Serchhip,Mizoram,29.7
+11.00000,76.75000,Coimbatore,Tamil Nadu,24.8
+25.75000,72.50000,Jalor,Rajasthan,82.3
+16.75000,78.75000,Nalgonda,Telangana,68.2

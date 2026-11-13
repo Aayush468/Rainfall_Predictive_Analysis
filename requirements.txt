@@ -1,0 +1,10 @@
+streamlit>=1.50,<2
+pandas>=2.2,<3
+numpy>=1.26,<3
+SQLAlchemy>=2.0,<3
+psycopg[binary]>=3.1,<4
+requests>=2.31,<3
+plotly>=5.22,<7
+python-dotenv>=1.0,<2
+xarray>=2024.3
+netCDF4>=1.6

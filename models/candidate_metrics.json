@@ -1,0 +1,35 @@
+{
+  "source_file": "data\\processed\\grid_observations_2015_2025.csv",
+  "target": "next_calendar_day_rainfall_mm",
+  "feature_names": [
+    "grid_latitude",
+    "grid_longitude",
+    "lag_1",
+    "lag_2",
+    "lag_3",
+    "lag_7",
+    "lag_14",
+    "rolling_mean_7",
+    "rolling_mean_14",
+    "month",
+    "day_of_year"
+  ],
+  "rows_total": 800770,
+  "rows_train": 640578,
+  "rows_test": 160192,
+  "training_target_start": "2015-01-15",
+  "training_target_end": "2023-10-22",
+  "test_target_start": "2023-10-23",
+  "test_target_end": "2025-12-31",
+  "baseline_previous_day": {
+    "mae_mm": 3.7093055205867436,
+    "rmse_mm": 11.64934383830851,
+    "r2": -0.15855159395460494
+  },
+  "random_forest": {
+    "mae_mm": 3.4722201391904273,
+    "rmse_mm": 9.354189734490415,
+    "r2": 0.252992778286514
+  },
+  "model_note": "Predicted rainfall is an ML estimate, not an official IMD forecast."
+}
