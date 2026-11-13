@@ -1,3 +1,4 @@
+
 # Rainfall Predictive Project
 
 A data science application for rainfall history, current conditions, forecast
@@ -76,3 +77,6 @@ project schema on first startup. Create a PostgreSQL database, set
 `.streamlit/secrets.toml.example` in the host's secrets panel, then import
 approved rainfall data into that database. Do not commit `.env`, secrets,
 database exports, or raw data files.
+=======
+# Rainfall_Predictive_Analysis
+
